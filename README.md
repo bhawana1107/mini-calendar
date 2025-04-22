@@ -26,4 +26,4 @@ A simple, elegant, and responsive Mini Calendar widget built using HTML, CSS, an
 ---
 
 🚀 Live Demo
-🔗 [Click here to play the game](https://bhawana1107.github.io/mini-calendar)  
+🔗 [Click here to Check Date ,Time ,Year](https://bhawana1107.github.io/mini-calendar)  
